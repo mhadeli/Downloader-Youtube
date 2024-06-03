@@ -1,7 +1,10 @@
 # YouTube Video Downloader
-==========================
 
 A Streamlit app to download YouTube videos for educational purposes only.
+
+
+<img width="1440" alt="Screenshot - Youtube Video Downloader" src="https://github.com/mhadeli/Downloader-Youtube/assets/58530203/82834665-9ecc-436e-ad78-3c2576ca620a">
+
 
 ## Description
 This app allows users to enter a YouTube video link, view the video details, and download the video in the highest available resolution for educational purposes only.
