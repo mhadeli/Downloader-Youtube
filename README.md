@@ -21,16 +21,16 @@ Please use this app for educational purposes only. Downloading YouTube videos wi
 ### Step 1: Clone the Repository
 Clone this repository to your local machine.
 
-### Step 2: Run the App
+#### Step 2: Run the App
 Run the app by executing `streamlit run app.py`.
 
-### Step 3: Access the App
+#### Step 3: Access the App
 Open a web browser and navigate to `http://localhost:8501`.
 
-### Step 4: Enter Video Link
+#### Step 4: Enter Video Link
 Enter a YouTube video link and click "Get Video Details".
 
-### Step 5: Download Video
+#### Step 5: Download Video
 View the video details and click "Download Video" to download the video for educational purposes only.
 
 ## Future Work
